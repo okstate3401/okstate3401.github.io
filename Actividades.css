@@ -1,0 +1,38 @@
+h1{
+padding-top: 25px;
+color: #FFFFFF;
+text-align: center;
+font-size: 96px;
+font-family: Impact, Charcoal, sans-serif;
+}
+
+
+
+#menu li{
+list-style-type: none;
+float: left;
+position: relative;
+font-size: 22px;
+padding-left: 145px;
+padding-top: 10px;
+color: #FFFFFF;
+}
+
+a:link{
+text-decoration: none;
+color: #FFFFFF;
+}
+
+a:visited{
+text-decoration: none;
+color: #FFFFFF;
+}
+
+
+footer{
+height: 50px;
+padding-bottom: 0px;
+margin: 0px;
+}
+
+
